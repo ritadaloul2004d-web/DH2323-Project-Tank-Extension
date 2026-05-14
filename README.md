@@ -10,4 +10,10 @@ This project extends the DH2323 Unity tank lab by adding simple gameplay feature
 - Score system
 
 ## Progress
-Further updates will be added soon.
+Week 1: Set up Lab 3 Unity tank scene from DH2323 and implemented enemy health system and shell damage.
+
+Week 2: Modified enemy movement so enemies stop near the player, and implemented score system and UI (TextMeshPro).
+
+Week 3: Wrote project report and prepared submission.
+
+
