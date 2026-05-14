@@ -17,3 +17,8 @@ Week 2: Modified enemy movement so enemies stop near the player, and implemented
 Week 3: Wrote project report and prepared submission.
 
 
+## Screenshots
+
+![Health system](screenshots/Health_1.jpg, Health_2.jpg, Health_3.jpg)
+![Enemies stopped near player](screenshots/Behaviour.jpg)
+![Score and health in UI](screenshots/score.jpg)
