@@ -20,13 +20,14 @@ Week 3: Wrote project report and prepared submission.
 ## Screenshots
 Health system:
 
-![Health system](screenshots/Health_1.jpg)
-![Health system](screenshots/Health_2.jpg)
 ![Health system](screenshots/Health_3.jpg)
+![Health system](screenshots/Health_2.jpg)
+![Health system](screenshots/Health_1.jpg)
 
 Enemies behaviour:
 
 ![Enemies stopped near player](screenshots/Behaviour.jpg)
 
 Score UI:
+
 ![Score in UI](screenshots/score.jpg)
